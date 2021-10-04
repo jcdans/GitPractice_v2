@@ -4,8 +4,8 @@ Welcome to GITHub Practice.
 
 ## Subheader
 
-Hello world.
+Mastering GIT functionality.
 
-## DIT Development
+## Official Development
 
-This is a test for DIT Branch.
+Get Ready.
