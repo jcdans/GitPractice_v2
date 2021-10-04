@@ -1,6 +1,6 @@
 # Git Practice 2
 
-This is my practice on working with GitHub.
+Welcome to GITHub Practice.
 
 ## Subheader
 
