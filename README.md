@@ -1,3 +1,11 @@
 # Git Practice 2
 
-This is my practice on working with GitHub.
+Welcome to GITHub Practice.
+
+## Subheader
+
+Hello world.
+
+## DIT Development
+
+This is a test for DIT Branch.
